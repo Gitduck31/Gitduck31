@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gitduck31
 - 👀 I’m interested in Coding, HAM Radio, etc.
-- 🌱 I’m currently learning how to use this, because I am new!
+- 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...
 - 😄 Pronouns: He/Him
