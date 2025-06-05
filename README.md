@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Gitduck31
-- 👀 I’m interested in Coding, HAM Radio, DUCKS, etc.
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m @Gitduck31!
+- 👀 I’m interested in Coding, HAM Radio, DUCKS, music, etc.
+- 🌱 I’m currently learning Python and the front-end web dev languages.
 - ⚡ Fun fact: I  L O V E  DUCKS
 
 <!---
